@@ -1,0 +1,4 @@
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Human/obj/Debug/netcoreapp2.2/Human.csprojAssemblyReference.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Human/obj/Debug/netcoreapp2.2/Human.csproj.CoreCompileInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfoInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Human/obj/Debug/netcoreapp2.2/Human.AssemblyInfo.cs
